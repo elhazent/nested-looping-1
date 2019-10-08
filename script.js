@@ -1,9 +1,9 @@
 //nested looping
 //barisan bintang biasa
-var stars = 5;
+var bintang = 5;
 var stairs = 0;
 
-while (stairs<stars){
+while (stairs<bintang){
 	console.log('#')
 	stairs++;
 }
