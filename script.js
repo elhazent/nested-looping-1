@@ -1,5 +1,5 @@
-//nested looping
-//barisan bintang biasa
+//this is nested looping
+//star stairs usual
 var stars = 5;
 var stairs = 0;
 
@@ -8,7 +8,7 @@ while (stairs<stars){
 	stairs++;
 }
 
-//barisan bintang dengan nested looping
+//star stairs with nested looping
 var laps = 5;
 var simple = 0;
 
@@ -16,7 +16,8 @@ while (laps<simple){
 	console.log('*****')
 	simple++;
 }
-//tangga bintang
+
+//star stairs
 var tool = 5;
 
 var inject = 1;
